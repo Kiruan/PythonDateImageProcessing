@@ -1,0 +1,14 @@
+J'ai eu le choix entre java et python
+Je sais que je suis un peu plus a l'aise avec python et que ce'st plus leger, car nos ressources sont limité sur un raspPy
+J'ai trouvé un moteur de reconnaissance qui s'appelle PyTesseract
+
+Après avoir suivit les étapes d'installation de paquets sur ma machines, j'ai utilisé l'environement Pipenv pour créer mon projets
+J'ai ensuite suivit ce guide https://stackabuse.com/pytesseract-simple-python-optical-character-recognition/
+
+J'ai première créé un script simple pour etre sur que le moteur fonctionnait
+Puis créé un petit site web grace a une dépendance appelé Flask qui fais appel au script tesseract qui permet de reconnaitre le text
+
+J'ai maintenant une manière pratique d'utiliser tesseract. Mon but etant d'automatiser le process, il faut que je me familliarise avec les commandes de tesseract dans le shell et son intégration dans un script python
+
+**fin du jour 1**
+
