@@ -10,5 +10,17 @@ Puis créé un petit site web grace a une dépendance appelé Flask qui fais app
 
 J'ai maintenant une manière pratique d'utiliser tesseract. Mon but etant d'automatiser le process, il faut que je me familliarise avec les commandes de tesseract dans le shell et son intégration dans un script python
 
+info pratique : 
+Sous manjaro (arch)
+J'ai installé tesseract via 
+pacman -S tesseract tesseract-data-eng
+pip install pytesseract
+pipenv install Flask
+
+pour entrer en mode ocr serveur (permettant d'utiliser flask et tesseract, c'est le shell de pipenv)
+pipenv shell
+
+ne pas oublier de sortir du shell avec exit pour utiliser le terminal; pour git par exemple
+
 **fin du jour 1**
 
