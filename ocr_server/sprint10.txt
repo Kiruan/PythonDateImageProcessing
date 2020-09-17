@@ -24,3 +24,6 @@ ne pas oublier de sortir du shell avec exit pour utiliser le terminal; pour git 
 
 **fin du jour 1**
 
+https://nanonets.com/blog/ocr-with-tesseract/
+https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+https://stackoverflow.com/questions/37745519/use-pytesseract-ocr-to-recognize-text-from-an-image

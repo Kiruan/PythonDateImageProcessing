@@ -20,7 +20,7 @@ def allowed_file(filename):
 # route and function to handle the home page
 @app.route('/')
 def home_page():
-    return render_template('index.html')
+    return render_template('upload.html')
 
 # route and function to handle the upload page
 @app.route('/upload', methods=['GET', 'POST'])
